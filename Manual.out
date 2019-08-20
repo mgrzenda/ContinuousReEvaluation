@@ -1,0 +1,76 @@
+\BOOKMARK [0][-]{title.0}{Titlepage}{}% 1
+\BOOKMARK [0][-]{contents.0}{Contents}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Data streams Evaluation}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Installation}{}% 5
+\BOOKMARK [1][-]{section.2.1}{WEKA}{chapter.2}% 6
+\BOOKMARK [0][-]{chapter.3}{Using MOA}{}% 7
+\BOOKMARK [1][-]{section.3.1}{Using the GUI}{chapter.3}% 8
+\BOOKMARK [2][-]{subsection.3.1.1}{Classification}{section.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.1.2}{Regression}{section.3.1}% 10
+\BOOKMARK [2][-]{subsection.3.1.3}{Clustering}{section.3.1}% 11
+\BOOKMARK [1][-]{section.3.2}{Using the command line}{chapter.3}% 12
+\BOOKMARK [2][-]{subsection.3.2.1}{Comparing two classifiers}{section.3.2}% 13
+\BOOKMARK [0][-]{chapter.4}{Using the API}{}% 14
+\BOOKMARK [1][-]{section.4.1}{Creating a new classifier}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.2}{Compiling a classifier}{chapter.4}% 16
+\BOOKMARK [0][-]{chapter.5}{Tasks in MOA}{}% 17
+\BOOKMARK [1][-]{section.5.1}{WriteStreamToARFFFile}{chapter.5}% 18
+\BOOKMARK [1][-]{section.5.2}{MeasureStreamSpeed}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.3}{LearnModel}{chapter.5}% 20
+\BOOKMARK [1][-]{section.5.4}{EvaluateModel}{chapter.5}% 21
+\BOOKMARK [1][-]{section.5.5}{EvaluatePeriodicHeldOutTest}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.6}{EvaluateInterleavedTestThenTrain}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.7}{EvaluatePrequential}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.8}{EvaluateInterleavedChunks}{chapter.5}% 25
+\BOOKMARK [0][-]{chapter.6}{Evolving data streams}{}% 26
+\BOOKMARK [1][-]{section.6.1}{Streams}{chapter.6}% 27
+\BOOKMARK [2][-]{subsection.6.1.1}{ArffFileStream}{section.6.1}% 28
+\BOOKMARK [2][-]{subsection.6.1.2}{ConceptDriftStream}{section.6.1}% 29
+\BOOKMARK [2][-]{subsection.6.1.3}{ConceptDriftRealStream}{section.6.1}% 30
+\BOOKMARK [2][-]{subsection.6.1.4}{FilteredStream}{section.6.1}% 31
+\BOOKMARK [2][-]{subsection.6.1.5}{AddNoiseFilter}{section.6.1}% 32
+\BOOKMARK [1][-]{section.6.2}{Streams Generators}{chapter.6}% 33
+\BOOKMARK [2][-]{subsection.6.2.1}{generators.AgrawalGenerator}{section.6.2}% 34
+\BOOKMARK [2][-]{subsection.6.2.2}{generators.HyperplaneGenerator}{section.6.2}% 35
+\BOOKMARK [2][-]{subsection.6.2.3}{generators.LEDGenerator}{section.6.2}% 36
+\BOOKMARK [2][-]{subsection.6.2.4}{generators.LEDGeneratorDrift}{section.6.2}% 37
+\BOOKMARK [2][-]{subsection.6.2.5}{generators.RandomRBFGenerator}{section.6.2}% 38
+\BOOKMARK [2][-]{subsection.6.2.6}{generators.RandomRBFGeneratorDrift}{section.6.2}% 39
+\BOOKMARK [2][-]{subsection.6.2.7}{generators.RandomTreeGenerator}{section.6.2}% 40
+\BOOKMARK [2][-]{subsection.6.2.8}{generators.SEAGenerator}{section.6.2}% 41
+\BOOKMARK [2][-]{subsection.6.2.9}{generators.STAGGERGenerator}{section.6.2}% 42
+\BOOKMARK [2][-]{subsection.6.2.10}{generators.WaveformGenerator}{section.6.2}% 43
+\BOOKMARK [2][-]{subsection.6.2.11}{generators.WaveformGeneratorDrift}{section.6.2}% 44
+\BOOKMARK [0][-]{chapter.7}{Classifiers}{}% 45
+\BOOKMARK [1][-]{section.7.1}{Bayesian Classifiers}{chapter.7}% 46
+\BOOKMARK [2][-]{subsection.7.1.1}{NaiveBayes}{section.7.1}% 47
+\BOOKMARK [2][-]{subsection.7.1.2}{NaiveBayesMultinomial}{section.7.1}% 48
+\BOOKMARK [1][-]{section.7.2}{Decision Trees}{chapter.7}% 49
+\BOOKMARK [2][-]{subsection.7.2.1}{DecisionStump}{section.7.2}% 50
+\BOOKMARK [2][-]{subsection.7.2.2}{HoeffdingTree}{section.7.2}% 51
+\BOOKMARK [2][-]{subsection.7.2.3}{HoeffdingOptionTree}{section.7.2}% 52
+\BOOKMARK [2][-]{subsection.7.2.4}{HoeffdingAdaptiveTree}{section.7.2}% 53
+\BOOKMARK [2][-]{subsection.7.2.5}{AdaHoeffdingOptionTree}{section.7.2}% 54
+\BOOKMARK [1][-]{section.7.3}{Meta Classifiers}{chapter.7}% 55
+\BOOKMARK [2][-]{subsection.7.3.1}{OzaBag}{section.7.3}% 56
+\BOOKMARK [2][-]{subsection.7.3.2}{OzaBoost}{section.7.3}% 57
+\BOOKMARK [2][-]{subsection.7.3.3}{OCBoost}{section.7.3}% 58
+\BOOKMARK [2][-]{subsection.7.3.4}{OzaBagASHT}{section.7.3}% 59
+\BOOKMARK [2][-]{subsection.7.3.5}{OzaBagADWIN}{section.7.3}% 60
+\BOOKMARK [2][-]{subsection.7.3.6}{AccuracyWeightedEnsemble}{section.7.3}% 61
+\BOOKMARK [2][-]{subsection.7.3.7}{AccuracyUpdatedEnsemble}{section.7.3}% 62
+\BOOKMARK [2][-]{subsection.7.3.8}{LimAttClassifier}{section.7.3}% 63
+\BOOKMARK [2][-]{subsection.7.3.9}{LeveragingBag}{section.7.3}% 64
+\BOOKMARK [1][-]{section.7.4}{Function Classifiers}{chapter.7}% 65
+\BOOKMARK [2][-]{subsection.7.4.1}{MajorityClass}{section.7.4}% 66
+\BOOKMARK [2][-]{subsection.7.4.2}{Perceptron}{section.7.4}% 67
+\BOOKMARK [2][-]{subsection.7.4.3}{SGD}{section.7.4}% 68
+\BOOKMARK [2][-]{subsection.7.4.4}{SPegasos}{section.7.4}% 69
+\BOOKMARK [1][-]{section.7.5}{Drift Classifiers}{chapter.7}% 70
+\BOOKMARK [2][-]{subsection.7.5.1}{SingleClassifierDrift}{section.7.5}% 71
+\BOOKMARK [0][-]{chapter.8}{Bi-directional interface with WEKA}{}% 72
+\BOOKMARK [1][-]{section.8.1}{WEKA classifiers from MOA}{chapter.8}% 73
+\BOOKMARK [2][-]{subsection.8.1.1}{WekaClassifier}{section.8.1}% 74
+\BOOKMARK [2][-]{subsection.8.1.2}{SingleClassifierDrift}{section.8.1}% 75
+\BOOKMARK [1][-]{section.8.2}{MOA classifiers from WEKA}{chapter.8}% 76
