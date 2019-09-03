@@ -9,7 +9,8 @@ http://moa.cms.waikato.ac.nz
 
 ## Citating this work
 If you use the continuos re-evaluation in a publication, please cite the following paper: 
-> Maciej Grzenda, Heitor Murilo Gomes, Albert Bifet. Data Mining and Knowledge Discovery. *In press*, Springer.
+> Maciej Grzenda, Heitor Murilo Gomes, Albert Bifet. Delayed Labelling Evaluation for Data Streams. 
+> Data Mining and Knowledge Discovery. *In press*, Springer.
 
 ## Key source files
 Some of the key changes made to MOA include changes in the following files:
